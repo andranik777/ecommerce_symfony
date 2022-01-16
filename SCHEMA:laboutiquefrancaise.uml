@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>ed9e69cc-c216-483b-8c5d-547fd20d1279.SCHEMA:laboutiquefrancaise</OriginalElement>
+  <nodes>
+    <node x="251.0" y="221.0">ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.address</node>
+    <node x="0.0" y="753.0">ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.doctrine_migration_versions</node>
+    <node x="0.0" y="238.0">ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.order</node>
+    <node x="475.0" y="128.0">ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.product</node>
+    <node x="492.5" y="0.0">ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.category</node>
+    <node x="707.0" y="0.0">ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.carrier</node>
+    <node x="138.5" y="0.0">ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.user</node>
+    <node x="32.0" y="542.0">ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.order_details</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.order_details" target="ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.order" relationship="REFERENCES">
+      <point x="0.0" y="-83.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.order" target="ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.user" relationship="REFERENCES">
+      <point x="0.0" y="-116.0" />
+      <point x="115.5" y="191.0" />
+      <point x="228.0" y="191.0" />
+      <point x="0.0" y="83.0" />
+    </edge>
+    <edge source="ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.product" target="ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.category" relationship="REFERENCES">
+      <point x="0.0" y="-105.0" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.address" target="ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.user" relationship="REFERENCES">
+      <point x="0.0" y="-138.0" />
+      <point x="340.5" y="191.0" />
+      <point x="228.0" y="191.0" />
+      <point x="0.0" y="83.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.4856815578465063" showDependencies="false" x="433.99999999999994" y="426.5" />
+  <SelectedNodes>
+    <node>ed9e69cc-c216-483b-8c5d-547fd20d1279.TABLE:laboutiquefrancaise.address</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
