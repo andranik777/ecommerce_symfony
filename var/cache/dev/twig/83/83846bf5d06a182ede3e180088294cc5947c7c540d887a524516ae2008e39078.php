@@ -159,6 +159,6 @@ class __TwigTemplate_b569e9b957dff8bf56ef2e85710c546f8e5be217fdedc9ae7891093b26c
     Pour suivre votre commande, rendez-vous dans votre <a href=\"{{ path('account_order') }}\">compte</a>.
     </p>
 {% endblock %}
-", "order_success/index.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/templates/order_success/index.html.twig");
+", "order_success/index.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/templates/order_success/index.html.twig");
     }
 }

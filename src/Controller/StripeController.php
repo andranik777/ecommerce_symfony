@@ -56,7 +56,7 @@ class StripeController extends AbstractController
             'quantity' => 1,
         ];
 
-        Stripe::setApiKey('sk_test_51HWz8KGVnm98Up5GCMO5wIuNe4JDUMhEyzOjCkCDKbYj2GjDT0RIZIXDWZ0p75UH5Il2N9OkRsTWFgtVGkqGYdYr00gJZqlI0w');
+        Stripe::setApiKey('sk_test_51KIrIYLL21h40MjpWUNhwdjVR1UL08dwZxTFGECeeBQCodkTT336T1ZsGmZUDMrzlP3RsNYe1LY3YNKHEWJTO55o000hpAsTgG');
 
         $checkout_session = Session::create([
             'customer_email' => $this->getUser()->getEmail(),
@@ -68,6 +68,8 @@ class StripeController extends AbstractController
             'success_url' => $YOUR_DOMAIN . '/commande/merci/{CHECKOUT_SESSION_ID}',
             'cancel_url' => $YOUR_DOMAIN . '/commande/erreur/{CHECKOUT_SESSION_ID}',
         ]);
+
+        dump($checkout_session);
 
         $order->setStripeSessionId($checkout_session->id);
         $entityManager->flush();

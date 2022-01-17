@@ -1671,6 +1671,6 @@ class __TwigTemplate_b8ee59d348d1e21a5c3a835edce91faf3e4ed4ebeabbaa0d9aef558fbc5
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
     }
 }

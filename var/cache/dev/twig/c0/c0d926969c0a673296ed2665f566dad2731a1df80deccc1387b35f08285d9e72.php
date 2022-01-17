@@ -260,6 +260,6 @@ class __TwigTemplate_264e0ff84e5db5875485d2a34ceec574f9b411dc6d899531480d5b2622b
         <strong>Livraison :</strong> {{ (order.carrierprice / 100)|number_format(2, ',', '.') }} €<br/>
         <strong>Total : </strong> {{ ((order.carrierPrice + order.getTotal) / 100)|number_format(2, ',', '.') }} €
     </div>
-{% endblock %}", "account/order_show.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/templates/account/order_show.html.twig");
+{% endblock %}", "account/order_show.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/templates/account/order_show.html.twig");
     }
 }

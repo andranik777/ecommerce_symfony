@@ -189,6 +189,6 @@ class __TwigTemplate_9b1e4758f767aa84799635a14b3541de01020aa6e75752438a29f696fa5
 .timeline-graph .timeline-period {
     stroke-width: 0;
 }
-", "@WebProfiler/Collector/time.css.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.css.twig");
+", "@WebProfiler/Collector/time.css.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.css.twig");
     }
 }

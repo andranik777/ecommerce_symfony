@@ -330,6 +330,6 @@ class __TwigTemplate_74b11486fdb782dde0568d4a7aef6d31a920f0d1924af60e388c4e84da1
     {% endif %}
 
 {% endblock %}
-", "@WebProfiler/Profiler/results.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/results.html.twig");
+", "@WebProfiler/Profiler/results.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/results.html.twig");
     }
 }

@@ -220,6 +220,6 @@ a.doc:hover {
     top: -7em;
     visibility: hidden;
 }
-", "@WebProfiler/Profiler/open.css.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/open.css.twig");
+", "@WebProfiler/Profiler/open.css.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/open.css.twig");
     }
 }

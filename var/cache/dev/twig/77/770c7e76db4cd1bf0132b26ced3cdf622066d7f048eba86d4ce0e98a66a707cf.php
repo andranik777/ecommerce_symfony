@@ -125,6 +125,6 @@ class __TwigTemplate_808cf51216e8f296562b01b9aa42cb5a05315c3af0266ba7ee730a966a7
         {% for attr, value in css_asset.htmlAttributes %}{{ attr }}=\"{{ value|e('html_attr') }}\" {% endfor %}>
     {% endif %}
 {% endfor %}
-", "@EasyAdmin/includes/_css_assets.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/includes/_css_assets.html.twig");
+", "@EasyAdmin/includes/_css_assets.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/includes/_css_assets.html.twig");
     }
 }

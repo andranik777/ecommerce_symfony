@@ -72,6 +72,6 @@ class __TwigTemplate_83f69bec74cb000d4fd4e54c185b1346d19f51fd3dc996b011cc801bffd
 {# @var field \\EasyCorp\\Bundle\\EasyAdminBundle\\Dto\\FieldDto #}
 {# @var entity \\EasyCorp\\Bundle\\EasyAdminBundle\\Dto\\EntityDto #}
 {{ field.formattedValue }}
-", "@EasyAdmin/crud/field/timezone.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/timezone.html.twig");
+", "@EasyAdmin/crud/field/timezone.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/timezone.html.twig");
     }
 }

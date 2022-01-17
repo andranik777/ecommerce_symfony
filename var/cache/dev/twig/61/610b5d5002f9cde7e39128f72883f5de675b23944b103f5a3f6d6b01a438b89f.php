@@ -72,6 +72,6 @@ class __TwigTemplate_c7915dfa3ecb9d3c042a36bbee629be3c28332532c9694e71b92314692f
 {# @var field \\EasyCorp\\Bundle\\EasyAdminBundle\\Dto\\FieldDto #}
 {# @var entity \\EasyCorp\\Bundle\\EasyAdminBundle\\Dto\\EntityDto #}
 {{ field.formattedValue }}
-", "@EasyAdmin/crud/field/percent.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/percent.html.twig");
+", "@EasyAdmin/crud/field/percent.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/percent.html.twig");
     }
 }

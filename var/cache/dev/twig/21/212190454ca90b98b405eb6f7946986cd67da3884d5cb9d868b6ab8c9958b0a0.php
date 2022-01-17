@@ -233,6 +233,6 @@ class __TwigTemplate_0454cb713860bd1eb2b7dca9ce4cccafb593a94ccf12c9a13b2e1008b26
     </div>
 
     <!-- /END THE FEATURETTES -->
-{% endblock %}", "home/index.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/templates/home/index.html.twig");
+{% endblock %}", "home/index.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/templates/home/index.html.twig");
     }
 }

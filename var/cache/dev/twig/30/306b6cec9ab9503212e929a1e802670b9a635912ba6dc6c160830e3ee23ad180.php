@@ -111,8 +111,8 @@ class __TwigTemplate_fe7ecb71b28780d8e2bdc14c5d1c58685e0c1d04aad7468e9ec33ce2d41
             <strong>La Boutique Française</strong>
             <hr>
             06 20 30 40 50<br/>
-            8 rue des lylas fleuris, 75000 Paris.<br/>
-            contact@laboutiquefrancaise.fr<br/>
+            8 rue des lylas fleuris, 42000 Saint Etienne.<br/>
+            contact@boutiqueGL.fr<br/>
         </div>
     </div>
 
@@ -158,12 +158,12 @@ class __TwigTemplate_fe7ecb71b28780d8e2bdc14c5d1c58685e0c1d04aad7468e9ec33ce2d41
             <strong>La Boutique Française</strong>
             <hr>
             06 20 30 40 50<br/>
-            8 rue des lylas fleuris, 75000 Paris.<br/>
-            contact@laboutiquefrancaise.fr<br/>
+            8 rue des lylas fleuris, 42000 Saint Etienne.<br/>
+            contact@boutiqueGL.fr<br/>
         </div>
     </div>
 
 {% endblock %}
-", "contact/index.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/templates/contact/index.html.twig");
+", "contact/index.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/templates/contact/index.html.twig");
     }
 }

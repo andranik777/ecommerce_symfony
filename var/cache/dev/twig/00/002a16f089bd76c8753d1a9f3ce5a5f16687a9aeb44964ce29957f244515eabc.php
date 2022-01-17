@@ -125,6 +125,6 @@ class __TwigTemplate_ccb836bae0472625bd4be10c2cb03146d335970ec0a1d47a754f1106df0
 .exception-message-wrapper .container {
     min-height: auto;
 }
-", "@WebProfiler/Collector/exception.css.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.css.twig");
+", "@WebProfiler/Collector/exception.css.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.css.twig");
     }
 }

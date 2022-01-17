@@ -40,7 +40,7 @@ class __TwigTemplate_d04f1ce8e271d8d9d62d2f62034ab4b9617c27e6dc12b251c29d6510754
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "@EasyAdmin/flash_messages.html.twig"));
 
         // line 5
-        $context["__internal_62353634f72cd802c888e640363a462a702d65477c1914ea4e450c0bd1af25fc"] = ((array_key_exists("ea", $context)) ? (twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, (isset($context["ea"]) || array_key_exists("ea", $context) ? $context["ea"] : (function () { throw new RuntimeError('Variable "ea" does not exist.', 5, $this->source); })()), "i18n", [], "any", false, false, false, 5), "translationDomain", [], "any", false, false, false, 5)) : (((array_key_exists("translation_domain", $context)) ? ((($context["translation_domain"]) ?? ("messages"))) : (""))));
+        $context["__internal_046108a9078e2634fe6b82880c8acfd1a3fe05781223b2fe12268852c5c8cc24"] = ((array_key_exists("ea", $context)) ? (twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, (isset($context["ea"]) || array_key_exists("ea", $context) ? $context["ea"] : (function () { throw new RuntimeError('Variable "ea" does not exist.', 5, $this->source); })()), "i18n", [], "any", false, false, false, 5), "translationDomain", [], "any", false, false, false, 5)) : (((array_key_exists("translation_domain", $context)) ? ((($context["translation_domain"]) ?? ("messages"))) : (""))));
         // line 6
         if (( !(null === twig_get_attribute($this->env, $this->source, (isset($context["app"]) || array_key_exists("app", $context) ? $context["app"] : (function () { throw new RuntimeError('Variable "app" does not exist.', 6, $this->source); })()), "session", [], "any", false, false, false, 6)) && twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, (isset($context["app"]) || array_key_exists("app", $context) ? $context["app"] : (function () { throw new RuntimeError('Variable "app" does not exist.', 6, $this->source); })()), "session", [], "any", false, false, false, 6), "started", [], "any", false, false, false, 6))) {
             // line 7
@@ -71,7 +71,7 @@ class __TwigTemplate_d04f1ce8e271d8d9d62d2f62034ab4b9617c27e6dc12b251c29d6510754
                         ";
                         // line 15
                         echo $this->extensions['Symfony\Bridge\Twig\Extension\TranslationExtension']->trans($context["message"], [],                         // line 5
-(isset($context["__internal_62353634f72cd802c888e640363a462a702d65477c1914ea4e450c0bd1af25fc"]) || array_key_exists("__internal_62353634f72cd802c888e640363a462a702d65477c1914ea4e450c0bd1af25fc", $context) ? $context["__internal_62353634f72cd802c888e640363a462a702d65477c1914ea4e450c0bd1af25fc"] : (function () { throw new RuntimeError('Variable "__internal_62353634f72cd802c888e640363a462a702d65477c1914ea4e450c0bd1af25fc" does not exist.', 5, $this->source); })()));
+(isset($context["__internal_046108a9078e2634fe6b82880c8acfd1a3fe05781223b2fe12268852c5c8cc24"]) || array_key_exists("__internal_046108a9078e2634fe6b82880c8acfd1a3fe05781223b2fe12268852c5c8cc24", $context) ? $context["__internal_046108a9078e2634fe6b82880c8acfd1a3fe05781223b2fe12268852c5c8cc24"] : (function () { throw new RuntimeError('Variable "__internal_046108a9078e2634fe6b82880c8acfd1a3fe05781223b2fe12268852c5c8cc24" does not exist.', 5, $this->source); })()));
                         // line 15
                         echo "
                     </div>
@@ -137,6 +137,6 @@ class __TwigTemplate_d04f1ce8e271d8d9d62d2f62034ab4b9617c27e6dc12b251c29d6510754
         </div>
     {% endif %}
 {% endif %}
-", "@EasyAdmin/flash_messages.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/flash_messages.html.twig");
+", "@EasyAdmin/flash_messages.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/flash_messages.html.twig");
     }
 }

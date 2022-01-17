@@ -145,6 +145,6 @@ class __TwigTemplate_3de0aa8ecc0a23787ffae7087cd123be2bbeca1cd9024849add28855eec
     </p>
     <a href=\"{{ path('order') }}\" class=\"btn btn-success\">Réessayer le paiement</a>
 {% endblock %}
-", "order_cancel/index.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/templates/order_cancel/index.html.twig");
+", "order_cancel/index.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/templates/order_cancel/index.html.twig");
     }
 }

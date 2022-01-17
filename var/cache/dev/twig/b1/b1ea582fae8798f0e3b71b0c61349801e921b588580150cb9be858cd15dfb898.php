@@ -70,6 +70,6 @@ class __TwigTemplate_dd8005ea8e66c26316123bd23f9a039b55916d6ee2610bf033b7420e98a
     public function getSourceContext()
     {
         return new Source("<span class=\"badge badge-secondary\">{{ 'label.empty'|trans(domain = 'EasyAdminBundle') }}</span>
-", "@EasyAdmin/label/empty.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/label/empty.html.twig");
+", "@EasyAdmin/label/empty.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/label/empty.html.twig");
     }
 }

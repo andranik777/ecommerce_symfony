@@ -161,6 +161,6 @@ class __TwigTemplate_c0b3815bc7c478e7f73c9f52c2eef2d1b6b03a3dfc7b661f883584f8234
         {% endfor %}
         {{ form(form) }}
     </div>
-{% endblock %}", "reset_password/update.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/templates/reset_password/update.html.twig");
+{% endblock %}", "reset_password/update.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/templates/reset_password/update.html.twig");
     }
 }

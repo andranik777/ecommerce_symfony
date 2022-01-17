@@ -417,6 +417,6 @@ class __TwigTemplate_bf3952043c19632d96c8246e5c3623234c817bc16c8003c5d799472399f
         </a>
     {% endif %}
 {% endmacro %}
-", "@EasyAdmin/menu.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/menu.html.twig");
+", "@EasyAdmin/menu.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/menu.html.twig");
     }
 }

@@ -1543,6 +1543,6 @@ $this->env->getRuntime('Symfony\Component\Form\FormRenderer')->searchAndRenderBl
         {% if form is not rootform %}</small>{% else %}</div>{% endif %}
     {%- endif %}
 {%- endblock form_errors %}
-", "foundation_5_layout.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/symfony/twig-bridge/Resources/views/Form/foundation_5_layout.html.twig");
+", "foundation_5_layout.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/symfony/twig-bridge/Resources/views/Form/foundation_5_layout.html.twig");
     }
 }

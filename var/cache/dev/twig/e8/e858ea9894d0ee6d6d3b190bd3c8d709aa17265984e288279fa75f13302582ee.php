@@ -75,6 +75,6 @@ class __TwigTemplate_98864d0f37b8042205b81600460885f7b8b7323eb3af5ca9e43066b74da
 {# @var field \\EasyCorp\\Bundle\\EasyAdminBundle\\Dto\\FieldDto #}
 {# @var entity \\EasyCorp\\Bundle\\EasyAdminBundle\\Dto\\EntityDto #}
 <time datetime=\"{{ field.value|date('H:i:s') }}\">{{ field.formattedValue }}</time>
-", "@EasyAdmin/crud/field/time.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/time.html.twig");
+", "@EasyAdmin/crud/field/time.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/time.html.twig");
     }
 }

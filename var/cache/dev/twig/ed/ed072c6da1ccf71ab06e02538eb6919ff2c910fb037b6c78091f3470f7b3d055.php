@@ -193,6 +193,6 @@ class __TwigTemplate_63c50cb91b6c76cf04679d171c89c987a72268938347249bf3efaf9f87d
         {{ exception.publicMessage|trans(exception.translationParameters, 'EasyAdminBundle') }}
     </div>
 {% endblock %}
-", "@EasyAdmin/exception.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/exception.html.twig");
+", "@EasyAdmin/exception.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/exception.html.twig");
     }
 }

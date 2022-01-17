@@ -413,6 +413,6 @@ class __TwigTemplate_fcc986c0228d11950236e2f12b285fe45f0d076a5d0b6d845fdcfbbd28e
         </div>
     {% endfor %}
 {% endblock %}
-", "@Debug/Profiler/dump.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
+", "@Debug/Profiler/dump.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
     }
 }

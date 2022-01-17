@@ -130,6 +130,6 @@ class __TwigTemplate_3be6c3b588a6f66193d9e55f5b2a425c783bbef2aadc9019517b72ba2a3
         <a href=\"{{ path('home') }}\" class=\"btn btn-info\">Revenir à l'accueil</a>
     </div>
 {% endblock %}
-", "@Twig/Exception/error.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/templates/bundles/TwigBundle/Exception/error.html.twig");
+", "@Twig/Exception/error.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/templates/bundles/TwigBundle/Exception/error.html.twig");
     }
 }

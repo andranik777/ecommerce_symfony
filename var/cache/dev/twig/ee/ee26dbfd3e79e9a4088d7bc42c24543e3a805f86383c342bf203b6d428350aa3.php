@@ -120,6 +120,6 @@ class __TwigTemplate_9eb31ee27de939a554ccb722e60d9465d0053fd28a2bc6565396912d291
         <label class=\"form-check-label\" for=\"{{ field.uniqueId }}\"></label>
     </div>
 {% endif %}
-", "@EasyAdmin/crud/field/boolean.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/boolean.html.twig");
+", "@EasyAdmin/crud/field/boolean.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/boolean.html.twig");
     }
 }

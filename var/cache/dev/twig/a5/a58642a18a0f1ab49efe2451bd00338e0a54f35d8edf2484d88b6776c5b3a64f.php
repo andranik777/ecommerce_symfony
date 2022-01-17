@@ -277,6 +277,6 @@ class __TwigTemplate_b8f32c2c8ceb6b4fcff82c6ce5981e05e73eec803be50e918646bf361ad
     {% set attr = attr|merge({class: (attr.class|default('') ~ ' button')|trim}) %}
     {{- parent() -}}
 {%- endblock button_widget %}
-", "foundation_6_layout.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/symfony/twig-bridge/Resources/views/Form/foundation_6_layout.html.twig");
+", "foundation_6_layout.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/symfony/twig-bridge/Resources/views/Form/foundation_6_layout.html.twig");
     }
 }

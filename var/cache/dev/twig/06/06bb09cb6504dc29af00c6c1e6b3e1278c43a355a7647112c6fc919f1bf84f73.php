@@ -81,6 +81,6 @@ class __TwigTemplate_f54c6c176240a24502424857c7efd87d77afdeb4bb1e7e5f5b87fc56786
 <span class=\"badge badge-danger\" title=\"{{ 'label.inaccessible.explanation'|trans }}\">
     {{ 'label.inaccessible'|trans }}
 </span>
-", "@EasyAdmin/label/inaccessible.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/label/inaccessible.html.twig");
+", "@EasyAdmin/label/inaccessible.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/label/inaccessible.html.twig");
     }
 }

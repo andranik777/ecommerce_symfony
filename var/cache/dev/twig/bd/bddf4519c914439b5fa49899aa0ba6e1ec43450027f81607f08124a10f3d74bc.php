@@ -73,6 +73,6 @@ class __TwigTemplate_7b215e43de5e458cd842d9249749fb55f7253ff96d9b4f88a4897d309e6
 {# @var entity \\EasyCorp\\Bundle\\EasyAdminBundle\\Dto\\EntityDto #}
 {# this template is used to display Doctrine entity primary keys #}
 {{ field.formattedValue }}
-", "@EasyAdmin/crud/field/id.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/id.html.twig");
+", "@EasyAdmin/crud/field/id.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/id.html.twig");
     }
 }

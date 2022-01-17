@@ -71,6 +71,6 @@ class __TwigTemplate_c0bd474d1d2f8281a0762680703dd0f78493dba750a578c16118d0a97bb
     public function getSourceContext()
     {
         return new Source("{% extends \"@email/zurb_2/notification/body.txt.twig\" %}
-", "@email/default/notification/body.txt.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/symfony/twig-bridge/Resources/views/Email/default/notification/body.txt.twig");
+", "@email/default/notification/body.txt.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/symfony/twig-bridge/Resources/views/Email/default/notification/body.txt.twig");
     }
 }

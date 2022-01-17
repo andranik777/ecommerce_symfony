@@ -710,6 +710,6 @@ class __TwigTemplate_52ca7ae5492dc692660716d593961fd34f3cf593fe1e8d9e98bc2ab3d84
         <td class=\"font-normal\">{{ migration.execution_time|default('n/a') }}</td>
     </tr>
 {% endmacro %}
-", "@DoctrineMigrations/Collector/migrations.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/doctrine/doctrine-migrations-bundle/Resources/views/Collector/migrations.html.twig");
+", "@DoctrineMigrations/Collector/migrations.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/doctrine/doctrine-migrations-bundle/Resources/views/Collector/migrations.html.twig");
     }
 }

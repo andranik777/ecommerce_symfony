@@ -242,7 +242,7 @@ class __TwigTemplate_3a73f0230f8bd7c79d27edf68163fb842334ac196bfbd37597f10ad7d67
 
         // line 66
         echo "    <script type=\"text/javascript\">
-        var stripe = Stripe(\"pk_test_51HWz8KGVnm98Up5GSk7E17U0T8CkgdGhfLXRCHPk5TVd17Osiws7rQWwvHqXOvzb7pcvqxtwGp7RZD0KHfvlTLSO00ija4VIMh\");
+        var stripe = Stripe(\"pk_test_51KIrIYLL21h40Mjpxieck7qSSuq8EtWNzZmYy3DlVCDgoOESbLZiBjsiBWpwh3HqkxbwXTifQzfk7gPfQn1kHbvA00k5BHn0f4\");
         var checkoutButton = document.getElementById(\"checkout-button\");
         checkoutButton.addEventListener(\"click\", function () {
                 fetch(\"/commande/create-session/";
@@ -369,7 +369,7 @@ class __TwigTemplate_3a73f0230f8bd7c79d27edf68163fb842334ac196bfbd37597f10ad7d67
 
 {% block script %}
     <script type=\"text/javascript\">
-        var stripe = Stripe(\"pk_test_51HWz8KGVnm98Up5GSk7E17U0T8CkgdGhfLXRCHPk5TVd17Osiws7rQWwvHqXOvzb7pcvqxtwGp7RZD0KHfvlTLSO00ija4VIMh\");
+        var stripe = Stripe(\"pk_test_51KIrIYLL21h40Mjpxieck7qSSuq8EtWNzZmYy3DlVCDgoOESbLZiBjsiBWpwh3HqkxbwXTifQzfk7gPfQn1kHbvA00k5BHn0f4\");
         var checkoutButton = document.getElementById(\"checkout-button\");
         checkoutButton.addEventListener(\"click\", function () {
                 fetch(\"/commande/create-session/{{ reference }}\", {
@@ -399,6 +399,6 @@ class __TwigTemplate_3a73f0230f8bd7c79d27edf68163fb842334ac196bfbd37597f10ad7d67
         });
     </script>
 {% endblock %}
-", "order/add.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/templates/order/add.html.twig");
+", "order/add.html.twig", "/Users/andranikhakobyan/desktop/ecommerce_symfony/templates/order/add.html.twig");
     }
 }

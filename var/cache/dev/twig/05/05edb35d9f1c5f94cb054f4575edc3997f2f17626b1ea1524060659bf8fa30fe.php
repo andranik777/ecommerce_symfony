@@ -1077,6 +1077,6 @@ class __TwigTemplate_2f8d4db358fe339d4268966687669734ec4b8c957cca6641abef6042156
         </span>
     {%- endif -%}
 {%- endblock form_help %}
-", "bootstrap_3_layout.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/symfony/twig-bridge/Resources/views/Form/bootstrap_3_layout.html.twig");
+", "bootstrap_3_layout.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/symfony/twig-bridge/Resources/views/Form/bootstrap_3_layout.html.twig");
     }
 }

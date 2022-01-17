@@ -45,7 +45,7 @@ class __TwigTemplate_bc9115204e43f81249574f92465f2f2b6a9890b45604c15119a36034d89
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "@EasyAdmin/page/login_minimal.html.twig"));
 
         // line 3
-        $context["__internal_48d266191ffbddff48c29f3cbb274eb6d933c4902b81b86eba8951c8e8cf9f6d"] = (($context["translation_domain"]) ?? ("messages"));
+        $context["__internal_098cb48770e5eca607f502b6f22f9d78ad223ecacf2bb984e0482f0cebacfa51"] = (($context["translation_domain"]) ?? ("messages"));
         // line 4
         echo "<!DOCTYPE html>
 <html>
@@ -238,6 +238,6 @@ class __TwigTemplate_bc9115204e43f81249574f92465f2f2b6a9890b45604c15119a36034d89
     </body>
 </html>
 
-", "@EasyAdmin/page/login_minimal.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/page/login_minimal.html.twig");
+", "@EasyAdmin/page/login_minimal.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/page/login_minimal.html.twig");
     }
 }

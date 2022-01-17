@@ -248,6 +248,6 @@ class __TwigTemplate_615b71c24f4dbd404b4459cb30ec27a8637cfc42e66158277ecfe58a1f2
         <li><a href=\"https://github.com/EasyCorp/EasyAdminBundle\">Project homepage</a></li>
     </ul>
 {% endblock %}
-", "@EasyAdmin/inspector/data_collector.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/inspector/data_collector.html.twig");
+", "@EasyAdmin/inspector/data_collector.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/inspector/data_collector.html.twig");
     }
 }

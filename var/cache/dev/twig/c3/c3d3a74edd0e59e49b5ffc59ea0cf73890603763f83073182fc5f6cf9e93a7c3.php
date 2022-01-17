@@ -482,6 +482,6 @@ class __TwigTemplate_1af70243c6d0ace9c5afb22cb7ccf225b53d6034b2d12e2ae0cdf881e72
         {% endfor %}
     </table>
 {% endmacro %}
-", "@WebProfiler/Collector/events.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/symfony/web-profiler-bundle/Resources/views/Collector/events.html.twig");
+", "@WebProfiler/Collector/events.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/symfony/web-profiler-bundle/Resources/views/Collector/events.html.twig");
     }
 }

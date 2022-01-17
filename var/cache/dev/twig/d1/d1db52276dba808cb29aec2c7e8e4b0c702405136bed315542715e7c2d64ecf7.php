@@ -91,6 +91,6 @@ class __TwigTemplate_d1421ad06aeda5c047f6ddc36f0c5f3af055120a2957580f41333854eab
 {% if field.customOptions.get('showName') %}
     {{ field.formattedValue ?? '' }}
 {% endif %}
-", "@EasyAdmin/crud/field/locale.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/locale.html.twig");
+", "@EasyAdmin/crud/field/locale.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/locale.html.twig");
     }
 }

@@ -296,6 +296,6 @@ class __TwigTemplate_d0dbbe35a07bf40fc7e00c80b9714da2999fc7a57f7e0164b84b6b86057
         <p><b>Votre panier est vide.</b></p>
     {% endif %}
 {% endblock %}
-", "cart/index.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/templates/cart/index.html.twig");
+", "cart/index.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/templates/cart/index.html.twig");
     }
 }

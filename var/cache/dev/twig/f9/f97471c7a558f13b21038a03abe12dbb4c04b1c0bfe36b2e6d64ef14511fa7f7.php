@@ -128,6 +128,6 @@ class __TwigTemplate_93b0b5c95e03cb4c5e75bb21da260d332230545924ffe0a35c2e204a8c4
         </div>
     </div>
 </div>
-", "@EasyAdmin/crud/includes/_delete_form.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/includes/_delete_form.html.twig");
+", "@EasyAdmin/crud/includes/_delete_form.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/includes/_delete_form.html.twig");
     }
 }

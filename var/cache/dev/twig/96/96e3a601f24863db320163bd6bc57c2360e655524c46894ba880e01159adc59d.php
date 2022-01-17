@@ -1541,6 +1541,6 @@ array_key_exists("type", $context)) ? (_twig_default_filter((isset($context["typ
     {%- endif -%}
     {{- parent() -}}
 {%- endblock form_help %}
-", "@EasyAdmin/symfony-form-themes/bootstrap_5_layout.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/symfony-form-themes/bootstrap_5_layout.html.twig");
+", "@EasyAdmin/symfony-form-themes/bootstrap_5_layout.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/symfony-form-themes/bootstrap_5_layout.html.twig");
     }
 }

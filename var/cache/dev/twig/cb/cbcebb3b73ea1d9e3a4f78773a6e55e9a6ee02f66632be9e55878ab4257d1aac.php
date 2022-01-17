@@ -2406,6 +2406,6 @@ $context["attrvalue"] === false)) {
         {%- endif -%}
     {%- endfor -%}
 {%- endblock attributes -%}
-", "@EasyAdmin/symfony-form-themes/form_div_layout.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/symfony-form-themes/form_div_layout.html.twig");
+", "@EasyAdmin/symfony-form-themes/form_div_layout.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/symfony-form-themes/form_div_layout.html.twig");
     }
 }

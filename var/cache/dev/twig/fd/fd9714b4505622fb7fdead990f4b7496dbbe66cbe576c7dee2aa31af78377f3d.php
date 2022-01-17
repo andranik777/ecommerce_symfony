@@ -226,6 +226,6 @@ class {{ dashboard_controller_class }} extends AbstractDashboardController
 }
     </pre>
 {% endblock %}
-", "@EasyAdmin/welcome.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/welcome.html.twig");
+", "@EasyAdmin/welcome.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/welcome.html.twig");
     }
 }

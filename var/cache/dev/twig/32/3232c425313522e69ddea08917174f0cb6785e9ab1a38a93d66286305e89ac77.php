@@ -61,6 +61,6 @@ class __TwigTemplate_b74b681b22dd427e64836d80734a014225edc9637616cb4c66cf29098d6
     {
         return new Source("{# this template is rendered when an error or exception occurs while
    trying to get the value of the field (by default nothing is displayed) #}
-", "@EasyAdmin/label/undefined.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/label/undefined.html.twig");
+", "@EasyAdmin/label/undefined.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/label/undefined.html.twig");
     }
 }

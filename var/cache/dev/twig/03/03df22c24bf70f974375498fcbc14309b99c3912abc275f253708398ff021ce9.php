@@ -92,6 +92,6 @@ class __TwigTemplate_932e78afd8bb654b41fa1f286ea333264e5e265756ce2d4429a7f9169f9
     <h5>{{ product.name }}</h5>
     <span class=\"product-subtitle\">{{ product.subtitle }}</span>
     <span class=\"product-price\">{{ (product.price / 100)|number_format(2, ',', '.') }} €</span>
-</div>", "product/single_product.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/templates/product/single_product.html.twig");
+</div>", "product/single_product.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/templates/product/single_product.html.twig");
     }
 }

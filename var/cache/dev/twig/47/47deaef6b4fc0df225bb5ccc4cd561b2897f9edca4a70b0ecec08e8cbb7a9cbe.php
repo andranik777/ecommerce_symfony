@@ -81,6 +81,6 @@ class __TwigTemplate_a73cdafac1bbc154896b43d6341653a63dacf6ecd695df314124bc9bb88
 {% for encore_asset in assets %}
     {{ ea_call_function_if_exists('encore_entry_link_tags', encore_asset.value, encore_asset.webpackPackageName, encore_asset.webpackEntrypointName, encore_asset.htmlAttributes) }}
 {% endfor %}
-", "@EasyAdmin/includes/_encore_link_tags.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/includes/_encore_link_tags.html.twig");
+", "@EasyAdmin/includes/_encore_link_tags.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/includes/_encore_link_tags.html.twig");
     }
 }

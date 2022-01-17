@@ -104,6 +104,6 @@ class __TwigTemplate_475bed99506aab5a8c85ca32b1fc2448eb94758f6d9f79fec116b841a5f
 {% if field.customOptions.get('showName') %}
     {{ field.formattedValue.name }}
 {% endif %}
-", "@EasyAdmin/crud/field/currency.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/currency.html.twig");
+", "@EasyAdmin/crud/field/currency.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/currency.html.twig");
     }
 }

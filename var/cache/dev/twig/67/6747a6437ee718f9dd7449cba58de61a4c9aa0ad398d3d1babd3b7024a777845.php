@@ -78,7 +78,7 @@ class __TwigTemplate_7ea63707952db1a752b350121d2f8ccd427a0b39f21d82cf739e26c6e90
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "@EasyAdmin/layout.html.twig"));
 
         // line 2
-        $context["__internal_4e51e9a0addbced59bef1867d872fd152e2ebe94f9d71dbb6efc8565ea3d733e"] = twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, (isset($context["ea"]) || array_key_exists("ea", $context) ? $context["ea"] : (function () { throw new RuntimeError('Variable "ea" does not exist.', 2, $this->source); })()), "i18n", [], "any", false, false, false, 2), "translationDomain", [], "any", false, false, false, 2);
+        $context["__internal_bf2ee0cdd2134a338a410b39e8c5762ba76bc68127bd225dd504f9adc0161923"] = twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, (isset($context["ea"]) || array_key_exists("ea", $context) ? $context["ea"] : (function () { throw new RuntimeError('Variable "ea" does not exist.', 2, $this->source); })()), "i18n", [], "any", false, false, false, 2), "translationDomain", [], "any", false, false, false, 2);
         // line 3
         echo "
 <!DOCTYPE html>
@@ -1764,6 +1764,6 @@ $context["item"], "isMenuSection", [], "any", false, false, false, 99)) {
     </body>
 {% endblock body %}
 </html>
-", "@EasyAdmin/layout.html.twig", "/Users/andranikhakobyan/Desktop/la-boutique-francaise/vendor/easycorp/easyadmin-bundle/src/Resources/views/layout.html.twig");
+", "@EasyAdmin/layout.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/vendor/easycorp/easyadmin-bundle/src/Resources/views/layout.html.twig");
     }
 }
