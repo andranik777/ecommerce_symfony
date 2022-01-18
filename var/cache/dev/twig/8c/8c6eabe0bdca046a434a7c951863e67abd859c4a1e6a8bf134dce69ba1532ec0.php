@@ -230,7 +230,7 @@ class __TwigTemplate_3a73f0230f8bd7c79d27edf68163fb842334ac196bfbd37597f10ad7d67
 
     }
 
-    // line 65
+    // line 66
     public function block_script($context, array $blocks = [])
     {
         $macros = $this->macros;
@@ -240,14 +240,14 @@ class __TwigTemplate_3a73f0230f8bd7c79d27edf68163fb842334ac196bfbd37597f10ad7d67
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "block", "script"));
 
-        // line 66
+        // line 67
         echo "    <script type=\"text/javascript\">
         var stripe = Stripe(\"pk_test_51KIrIYLL21h40Mjpxieck7qSSuq8EtWNzZmYy3DlVCDgoOESbLZiBjsiBWpwh3HqkxbwXTifQzfk7gPfQn1kHbvA00k5BHn0f4\");
         var checkoutButton = document.getElementById(\"checkout-button\");
         checkoutButton.addEventListener(\"click\", function () {
                 fetch(\"/commande/create-session/";
-        // line 70
-        echo twig_escape_filter($this->env, (isset($context["reference"]) || array_key_exists("reference", $context) ? $context["reference"] : (function () { throw new RuntimeError('Variable "reference" does not exist.', 70, $this->source); })()), "html", null, true);
+        // line 71
+        echo twig_escape_filter($this->env, (isset($context["reference"]) || array_key_exists("reference", $context) ? $context["reference"] : (function () { throw new RuntimeError('Variable "reference" does not exist.', 71, $this->source); })()), "html", null, true);
         echo "\", {
                     method: \"POST\",
                 })
@@ -257,7 +257,7 @@ class __TwigTemplate_3a73f0230f8bd7c79d27edf68163fb842334ac196bfbd37597f10ad7d67
                 .then(function (session) {
                     if (session.error == 'order') {
                         window.location.replace('";
-        // line 78
+        // line 79
         echo $this->extensions['Symfony\Bridge\Twig\Extension\RoutingExtension']->getPath("order");
         echo "');
                     } else {
@@ -298,7 +298,7 @@ class __TwigTemplate_3a73f0230f8bd7c79d27edf68163fb842334ac196bfbd37597f10ad7d67
 
     public function getDebugInfo()
     {
-        return array (  261 => 78,  250 => 70,  244 => 66,  234 => 65,  220 => 60,  215 => 58,  210 => 56,  206 => 55,  201 => 52,  195 => 51,  193 => 50,  187 => 47,  180 => 43,  175 => 41,  170 => 39,  162 => 36,  154 => 34,  149 => 33,  147 => 32,  136 => 24,  132 => 23,  128 => 22,  120 => 17,  111 => 10,  101 => 9,  82 => 7,  71 => 4,  61 => 3,  38 => 1,);
+        return array (  261 => 79,  250 => 71,  244 => 67,  234 => 66,  220 => 60,  215 => 58,  210 => 56,  206 => 55,  201 => 52,  195 => 51,  193 => 50,  187 => 47,  180 => 43,  175 => 41,  170 => 39,  162 => 36,  154 => 34,  149 => 33,  147 => 32,  136 => 24,  132 => 23,  128 => 22,  120 => 17,  111 => 10,  101 => 9,  82 => 7,  71 => 4,  61 => 3,  38 => 1,);
     }
 
     public function getSourceContext()
@@ -367,6 +367,7 @@ class __TwigTemplate_3a73f0230f8bd7c79d27edf68163fb842334ac196bfbd37597f10ad7d67
     </div>
 {% endblock %}
 
+
 {% block script %}
     <script type=\"text/javascript\">
         var stripe = Stripe(\"pk_test_51KIrIYLL21h40Mjpxieck7qSSuq8EtWNzZmYy3DlVCDgoOESbLZiBjsiBWpwh3HqkxbwXTifQzfk7gPfQn1kHbvA00k5BHn0f4\");
@@ -399,6 +400,6 @@ class __TwigTemplate_3a73f0230f8bd7c79d27edf68163fb842334ac196bfbd37597f10ad7d67
         });
     </script>
 {% endblock %}
-", "order/add.html.twig", "/Users/andranikhakobyan/desktop/ecommerce_symfony/templates/order/add.html.twig");
+", "order/add.html.twig", "/Users/andranikhakobyan/Desktop/ecommerce_symfony/templates/order/add.html.twig");
     }
 }

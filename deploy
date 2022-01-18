@@ -1,0 +1,2 @@
+#!/bin/sh
+rsync -av -e "ssh -p 5022" ./ hnsjtsvw@node129-eu.n0c.com:~/boutique_vetement --include=vendor --exclude-from=.gitignore --exclude=".*"
