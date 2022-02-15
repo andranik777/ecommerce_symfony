@@ -21,21 +21,20 @@ class ContactController extends AbstractController
 
         if ($form->isSubmitted() && $form->isValid()) {
             $contactFormData = $form->getData();
-
             $message = (new Email())
                 ->from($contactFormData['email'])
                 ->to('andranik.hakobyan42@gmail.com')
-                ->subject('Mail de contact')
+                ->subject($contactFormData['sujet'])
                 ->text('Sender : '.$contactFormData['email'].\PHP_EOL.$contactFormData["nom"] .' '. $contactFormData["prenom"].\PHP_EOL.
                     $contactFormData['content'] ,
 
                     'text/plain');
             $mailer->send($message);
-
             $this->addFlash('notice', 'Merci de nous avoir contacté. Notre équipe va vous répondre dans les meilleurs délais.');
 
         }
-
+        unset($form);
+        $form = $this->createForm(ContactType::class);
         return $this->render('contact/index.html.twig', [
             'form' => $form->createView()
         ]);

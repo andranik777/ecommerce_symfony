@@ -8,19 +8,5 @@
       <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="hnsjtsvw_boutique_vetement@185.221.182.10" uuid="04ce673f-56b2-46b2-b1ff-34d25e8e5b9a">
-      <driver-ref>mariadb</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://185.221.182.10:3306/hnsjtsvw_boutique_vetement</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="hnsjtsvw_boutique_vetement@185.221.182.10 [2]" uuid="7ececfa5-b463-4c27-b70b-45877f54a63b">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://185.221.182.10:3306/hnsjtsvw_boutique_vetement</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
   </component>
 </project>

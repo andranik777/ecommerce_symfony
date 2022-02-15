@@ -33,6 +33,12 @@ class ContactType extends AbstractType
                     'placeholder' => 'Merci de saisir votre adresse email'
                 ]
             ])
+            ->add('sujet',TextType::class, [
+                'label' => 'Le sujet',
+                'attr' => [
+                    'placeholder' => 'Merci de saisir le sujet de votre mail'
+                ]
+            ])
             ->add('content', TextareaType::class, [
                 'label' => 'Votre message',
                 'attr' => [
